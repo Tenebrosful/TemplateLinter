@@ -26,7 +26,7 @@ jobs:
           name: css-linted
           path: | 
             ./**/*.css
-            !node_modules/
+            !**/node_modules/
 
   scss:
     name: Lint scss
@@ -46,7 +46,7 @@ jobs:
           name: scss-linted
           path: | 
             ./**/*.scss
-            !node_modules/
+            !**/node_modules/
         
   js-ts:
     name: Lint js-ts
@@ -67,7 +67,7 @@ jobs:
           path: | 
             ./**/*.ts
             ./**/*.js
-            !node_modules/
+            !**/node_modules/
         
   html:
     name: Lint html
