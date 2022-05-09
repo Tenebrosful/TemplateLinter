@@ -12,7 +12,7 @@
     "@typescript-eslint/eslint-plugin": "^5.21.0",
     "@typescript-eslint/parser": "^5.21.0",
     "eslint": "^8.14.0",
-    "html-validate": "^6.9.0",
+    "html-validate": "^7.0.0",
     "nodemon": "^2.0.15",
     "stylelint": "^14.8.0",
     "stylelint-config-standard": "^25.0.0",
