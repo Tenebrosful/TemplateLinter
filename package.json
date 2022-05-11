@@ -14,7 +14,7 @@
     "eslint": "^8.14.0",
     "html-validate": "^7.0.0",
     "nodemon": "^2.0.15",
-    "stylelint": "^14.8.0",
+    "stylelint": "^14.8.2",
     "stylelint-config-standard": "^25.0.0",
     "stylelint-config-standard-scss": "^3.0.0",
     "ts-node": "^10.4.0",
