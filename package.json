@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.36",
-    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.23.0",
     "eslint": "^8.15.0",
     "html-validate": "^7.1.0",
